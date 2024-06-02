@@ -114,4 +114,4 @@ private fun NoteItemPrev() {
 }
 
 val mockdata = NoteData(title = "Do your Coding Work! Do your Coding Work Do your Coding Work",
-    description ="Gemini in Android Studio is available in many countries and territories, with support for the English language." )
+    description ="Gemini in Android Studio is available in many countries and territories, with support for the English language. yo" )
